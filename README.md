@@ -3,4 +3,5 @@
 My repository for code examples
 I'm Kees van Winden, My employer is NN-Group.
 Git clone in VS code werkt!
-En nu nog een keer UID en PW? Nee, hij onthoudt credentials
+En nu nog een keer UID en PW? Nee, hij onthoudt credentials.
+En nog een keer
